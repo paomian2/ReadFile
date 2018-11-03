@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.linxz.readlib">
+    <application>
+        <activity android:name=".FileDisplayActivity"/>
+    </application>
+</manifest>
